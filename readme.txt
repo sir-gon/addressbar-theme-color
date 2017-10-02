@@ -1,4 +1,4 @@
-=== HTML5 Addressbar Theme Color ===
+=== Addressbar Theme Color ===
 Contributors: sir_gon
 Donate link: https://www.paypal.me/goncl
 Tags: mobile, theme, html5, header
