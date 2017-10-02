@@ -7,7 +7,7 @@
 Plugin Name: Addressbar Theme Color
 Plugin URI: https://wordpress.org/plugins/html5-adressbar-theme-color
 Description: Change addressbar theme color for mobile browsers
-Version: 0.2
+Version: 0.3
 Author: Gonzalo Diaz <devel@gon.cl>
 Author URI: https://gon.cl/
 License: GPLv2 or later
