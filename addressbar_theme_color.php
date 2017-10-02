@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Addressbar Theme Color
- * @version 0.2
+ * @version 0.3
  */
 /*
 Plugin Name: Addressbar Theme Color
