@@ -22,10 +22,10 @@ class AddressbarThemeColorSettingsPage
     {
         // This page will be under "Settings"
         add_theme_page(
-            'Adress Bar Theme Color', 
-            'Adress Bar Theme Color', 
+            'Addressbar Theme Color', 
+            'Addressbar Theme Color', 
             'switch_themes', 
-            'html5-adressbar-theme-color-admin', 
+            'addressbar-theme-color', 
             array( $this, 'create_admin_page' )
         );
     }
